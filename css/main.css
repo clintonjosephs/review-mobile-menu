@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
@@ -278,6 +279,10 @@ li {
   cursor: pointer;
 }
 
+.menu-mobile > li {
+  padding-bottom: 30px;
+}
+
 .project-stacks li:hover {
   background: rgba(0, 0, 0, 0.349);
 }
@@ -450,10 +455,6 @@ textarea {
   font-size: 32px;
   line-height: 44px;
   color: white;
-}
-
-.menu-mobile > li {
-  padding-bottom: 30px;
 }
 
 .menu-mobile > li a {
