@@ -281,6 +281,10 @@ li {
 
 .menu-mobile > li {
   padding-bottom: 30px;
+  text-align: left;
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 24px;
 }
 
 .project-stacks li:hover {
@@ -457,13 +461,6 @@ textarea {
   color: white;
   text-decoration: none;
   font-weight: 900;
-}
-
-.menu-mobile > li {
-  text-align: left;
-  font-weight: 900;
-  font-size: 2rem;
-  line-height: 24px;
 }
 
 /** MENU OVERLAY END ***/
