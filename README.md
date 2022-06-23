@@ -1,1 +1,57 @@
-# review-mobile-menu
+# My Portfolio
+
+This is a test repository
+
+Portfolio website to show better a sneak peak on the things I can do to your project. Live demo link has been added using github pages to give you a tour of the project! 
+Enjoy the swiftness of the mobile menu as you click on the navigation button while on mobile screen, we have also added dynamic data using javascript objects to (modal window and dynamic presentation of the works section)
+Happy surfing!
+
+## Built With
+
+- HTML
+- CSS
+- Javascript
+- HTML & CSS & Javascript Linter
+
+
+## Getting Started
+
+**Please get your browser update. To get a local copy up and running follow these simple steps.**
+
+Run the command below from the Terminal:
+
+### navigate to your projects folder
+
+### run git clone https://github.com/clintonjosephs/review-mobile-menu.git in your terminal
+
+### run cd review-mobile-menu
+
+### start index.html
+
+
+## Authors
+
+👤 **Author**
+
+- GitHub: [@clintonjosephs](https://github.com/clintonjosephs)
+- Twitter: [@clintonmbonu_](https://twitter.com/clintonmbonu_)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/clinton-mbonu)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Entire Microverse team
+- My learning and coding partners
+
+## 📝 License
+This project is [MIT](LICENSE) licensed.
